@@ -12,7 +12,7 @@ elif marks >=75:
 else:
     grade="F"
 
-print (" your marks achieved :",marks)
+
 print("your grade is :",grade)
 #over
 
